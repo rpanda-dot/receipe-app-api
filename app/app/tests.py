@@ -10,7 +10,6 @@ from . import calc
 class CalcTests(SimpleTestCase):
     """Test the cac module."""
 
-
     def test_add_numbers(self):
         """Test adding numbers together."""
 
